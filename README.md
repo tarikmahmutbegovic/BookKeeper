@@ -5,6 +5,8 @@
 
 
 ## Code and Resources Used
+**Languages Used:** Python3, SQL
+
 **Python Version:** 3.9.6
 
 **Libraries:** sqlite3, tkinter
